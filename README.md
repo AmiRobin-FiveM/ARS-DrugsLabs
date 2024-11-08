@@ -62,5 +62,5 @@ This script requires the following dependencies to function correctly:
 
 ## Notes
 
-- **Support**: For support with this resource, please visit the [ARS Discord](https://discord.gg/ars).
+- **Support**: For support with this resource, please visit the [ARS Discord](https://discord.gg/vcJ6QZCpc3).
 - **Drug Selling**: This script dont have drug selling system, you can use [ARS_Drugs] or any other drug selling script.
